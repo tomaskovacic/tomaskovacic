@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tomaskovacic
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning Vue
+- 👀 I’m frontend developer
 
 <!---
 tomaskovacic/tomaskovacic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
